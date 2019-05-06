@@ -1,0 +1,3 @@
+Son 2 apps diferentes en ambas se incluye en el mismo archivo su
+respectivo CSS Y JavasCript pero por si acaso incluyo tambien los archivos
+aparte el CSS Y el JavasCript.
